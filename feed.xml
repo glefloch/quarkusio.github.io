@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Quarkus</title>
+        <link>https://quarkus.io</link>
+        <description>Quarkus: Supersonic Subatomic Java</description>
+        <lastBuildDate>Mon, 11 Jan 2021 10:50:59 +0000</lastBuildDate>
+        
+        <item>
+            <title>Quarkus 1.10.5.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-10-5-final-released/
+            </link>
+            <description>
+                1.10.5.Final is a maintenance release. It is a safe upgrade for everyone using Quarkus 1.10. If you are not using 1.10 already, please refer to the 1.10 migration guide. What&#8217;s new? This release is a maintenance release. It fixes some important issues in Quarkus, most notably in the Hibernate ORM...
+            </description>
+            <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-10-5-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.10.3.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-10-3-final-released/
+            </link>
+            <description>
+                1.10.3.Final is a maintenance release fixing bugs and improving the documentation. Thanks to all the contributors who reported issues and provided reproducers: it really helped a lot! It is a safe upgrade for everyone using Quarkus 1.10. If you are not using 1.10 already, please refer to the 1.10 migration...
+            </description>
+            <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-10-3-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Using Avro in a native executable</title>
+            <link>
+                https://quarkus.io/blog/avro-native/
+            </link>
+            <description>
+                A few months back, I blogged about Quarkus, Kafka, and Avro (using the Apicurio schema registry). We developed a simple application, receives HTTP requests, writes Kafka records, and reads them from Kafka. It uses Avro to serialize and deserialize the records. At that time, the application was NOT working in...
+            </description>
+            <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/avro-native/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Announcing RESTEasy Reactive</title>
+            <link>
+                https://quarkus.io/blog/resteasy-reactive/
+            </link>
+            <description>
+                It gives the Quarkus and RESTEasy teams great pleasure to announce that RESTEasy Reactive integration in Quarkus has landed in the main Quarkus repo [1] and will be part of the next Quarkus release 1.11. We are looking forward to everyone testing it and providing us as much feedback as...
+            </description>
+            <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/resteasy-reactive/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Extension codestarts - A new way to learn &amp; discover Quarkus</title>
+            <link>
+                https://quarkus.io/blog/extension-codestarts-a-new-way-to-learn-and-discover-quarkus/
+            </link>
+            <description>
+                What’s nice about Extension codestarts is that it’s useful for fresh Quarkus developers as well as experienced ones. This is because of the wide range (and growing) of Quarkus extensions, you simply can’t know them all. When I am comparing frameworks, I think that Doc is a very important factor,...
+            </description>
+            <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/extension-codestarts-a-new-way-to-learn-and-discover-quarkus/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkiverse Hub - Home of Community Extensions</title>
+            <link>
+                https://quarkus.io/blog/quarkiverse/
+            </link>
+            <description>
+                Today we&#8217;re proud to announce Quarkiverse Hub, a GitHub organization where any contributor can host their Quarkus extensions. Hosting your extension in the Quarkiverse Hub makes it available to all Quarkus users through the Quarkus tooling. So read on to discover more and find out how you can make your...
+            </description>
+            <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkiverse/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.10 released - JSON as default, Multiple reactive datasources, new Micrometer registries...</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-10-2-final-released/
+            </link>
+            <description>
+                The just released Quarkus 1.10.2.Final comes with a lot of improvements and new features: Default media type is now JSON CodeStarts is now the default project generation tool The Micrometer extension got its fair share of improvements (e.g. new registries) New Qute error pages Swagger/GraphQL/Health/OpenAPI UIs and Swagger UI configuration...
+            </description>
+            <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-10-2-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Sending and Receiving Cloud Events with Kafka</title>
+            <link>
+                https://quarkus.io/blog/kafka-cloud-events/
+            </link>
+            <description>
+                Cloud Events is a specification for describing events. It aims to ease interoperability. With the rise of event-driven architecture, it&#8217;s not surprising to see Cloud Events gaining popularity. This post explains how you can generate and consume Cloud Events using Quarkus, Kafka, and Reactive Messaging. What is Cloud Event? First,...
+            </description>
+            <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/kafka-cloud-events/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Stylish API</title>
+            <link>
+                https://quarkus.io/blog/stylish-api/
+            </link>
+            <description>
+                In this blog post we are going to look at the new styling and other new options available in OpenAPI and Swagger UI Quarkus extensions (version 1.10+). All the source code for the examples below is available here. Styling Default style The default style for Swagger UI has changed from...
+            </description>
+            <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/stylish-api/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Mutiny and the Reactiverse</title>
+            <link>
+                https://quarkus.io/blog/mutiny-vertx/
+            </link>
+            <description>
+                I had the question multiple times: how do I use Eclipse Vert.x in Quarkus? Indeed, you can use Vert.x in Quarkus. You can deploy verticles, communicate with the event bus, or use anything from the Vert.x ecosystem. But, you can also use the Mutiny variant of Vert.x in Quarkus, and...
+            </description>
+            <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/mutiny-vertx/
+            </guid>
+        </item>
+        
+    </channel>
+</rss>
